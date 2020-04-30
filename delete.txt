@@ -1,0 +1,176 @@
+Package operations: 95 installs, 0 updates, 0 removals
+  - Installing kylekatarnls/update-helper (1.2.0): Loading from cache
+  - Installing symfony/thanks (v1.2.5): Loading from cache
+  - Installing paragonie/random_compat (v2.0.18): Downloading (100%)         
+  - Installing paragonie/sodium_compat (v1.12.2): Loading from cache
+  - Installing psr/log (1.1.2): Loading from cache
+  - Installing pusher/pusher-php-server (v4.1.1): Loading from cache
+  - Installing symfony/polyfill-ctype (v1.14.0): Loading from cache
+  - Installing vlucas/phpdotenv (v2.6.1): Loading from cache
+  - Installing symfony/css-selector (v5.0.5): Loading from cache
+  - Installing tijsverkoyen/css-to-inline-styles (2.2.2): Loading from cache
+  - Installing symfony/polyfill-mbstring (v1.14.0): Loading from cache
+  - Installing symfony/var-dumper (v3.4.38): Loading from cache
+  - Installing symfony/routing (v3.4.38): Loading from cache
+  - Installing symfony/process (v3.4.38): Loading from cache
+  - Installing symfony/debug (v3.4.38): Loading from cache
+  - Installing symfony/polyfill-php72 (v1.14.0): Loading from cache
+  - Installing symfony/polyfill-intl-idn (v1.14.0): Loading from cache
+  - Installing symfony/polyfill-php70 (v1.14.0): Loading from cache
+  - Installing symfony/http-foundation (v3.4.38): Loading from cache
+  - Installing symfony/event-dispatcher-contracts (v1.1.7): Loading from cache
+  - Installing psr/container (1.0.0): Loading from cache
+  - Installing symfony/event-dispatcher (v4.4.5): Loading from cache
+  - Installing symfony/polyfill-util (v1.14.0): Loading from cache
+  - Installing symfony/polyfill-php56 (v1.14.0): Loading from cache
+  - Installing symfony/http-kernel (v3.4.38): Loading from cache
+  - Installing symfony/finder (v3.4.38): Loading from cache
+  - Installing symfony/console (v3.4.38): Loading from cache
+  - Installing symfony/polyfill-iconv (v1.14.0): Loading from cache
+  - Installing doctrine/lexer (1.2.0): Loading from cache
+  - Installing egulias/email-validator (2.1.17): Loading from cache
+  - Installing swiftmailer/swiftmailer (v6.2.3): Loading from cache
+  - Installing ramsey/uuid (3.9.3): Loading from cache
+  - Installing psr/simple-cache (1.0.1): Loading from cache
+  - Installing symfony/translation-contracts (v1.1.7): Loading from cache
+  - Installing symfony/translation (v4.3.11): Loading from cache
+  - Installing nesbot/carbon (1.39.1): Loading from cache
+  - Installing mtdowling/cron-expression (v1.2.3): Loading from cache
+  - Installing monolog/monolog (1.25.3): Loading from cache
+  - Installing league/flysystem (1.0.65): Loading from cache
+  - Installing erusev/parsedown (1.7.4): Loading from cache
+  - Installing doctrine/inflector (1.3.1): Loading from cache
+  - Installing laravel/framework (v5.5.48): Loading from cache
+  - Installing fideloper/proxy (3.3.4): Loading from cache
+  - Installing psr/http-message (1.0.1): Loading from cache
+  - Installing zendframework/zend-diactoros (1.8.7):Downloading (100%)         )
+  - Installing symfony/psr-http-message-bridge (v1.2.0): Downloading (connectingDownloading (100%)         
+  - Installing phpseclib/phpseclib (2.0.25): Loading from cache
+  - Installing defuse/php-encryption (v2.2.1): Loading from cache
+  - Installing lcobucci/jwt (3.3.1): Loading from cache
+  - Installing league/event (2.2.0): Loading from cache
+  - Installing league/oauth2-server (6.1.1): Downloading (100%)         
+  - Installing ralouphie/getallheaders (3.0.3): Loading from cache
+  - Installing guzzlehttp/psr7 (1.6.1): Loading from cache
+  - Installing guzzlehttp/promises (v1.3.1): Loading from cache
+  - Installing guzzlehttp/guzzle (6.5.2): Loading from cache
+  - Installing firebase/php-jwt (v5.1.0): Loading from cache
+  - Installing laravel/passport (v4.0.3): Downloading (100%)         
+  - Installing jakub-onderka/php-console-color (v0.2): Loading from cache
+  - Installing jakub-onderka/php-console-highlighter (v0.4): Loading from cache
+  - Installing nikic/php-parser (v4.3.0): Loading from cache
+  - Installing dnoegel/php-xdg-base-dir (v0.1.1): Loading from cache
+  - Installing psy/psysh (v0.9.12): Loading from cache
+  - Installing laravel/tinker (v1.0.10): Loading from cache
+  - Installing filp/whoops (2.7.1): Loading from cache
+  - Installing fzaninotto/faker (v1.9.1): Loading from cache
+  - Installing hamcrest/hamcrest-php (v2.0.0): Loading from cache
+  - Installing mockery/mockery (1.3.1): Loading from cache
+  - Installing sebastian/version (2.0.1): Loading from cache
+  - Installing sebastian/resource-operations (1.0.0): Loading from cache
+  - Installing sebastian/recursion-context (3.0.0): Loading from cache
+  - Installing sebastian/object-reflector (1.1.1): Loading from cache
+  - Installing sebastian/object-enumerator (3.0.3): Loading from cache
+  - Installing sebastian/global-state (2.0.0): Loading from cache
+  - Installing sebastian/exporter (3.1.2): Loading from cache
+  - Installing sebastian/environment (3.1.0): Loading from cache
+  - Installing sebastian/diff (2.0.1): Loading from cache
+  - Installing sebastian/comparator (2.1.3): Loading from cache
+  - Installing doctrine/instantiator (1.3.0): Loading from cache
+  - Installing phpunit/php-text-template (1.2.1): Loading from cache
+  - Installing phpunit/phpunit-mock-objects (5.0.10): Loading from cache
+  - Installing phpunit/php-timer (1.0.9): Loading from cache
+  - Installing phpunit/php-file-iterator (1.4.5): Loading from cache
+  - Installing theseer/tokenizer (1.1.3): Loading from cache
+  - Installing sebastian/code-unit-reverse-lookup (1.0.1): Loading from cache
+  - Installing phpunit/php-token-stream (2.0.2): Loading from cache
+  - Installing phpunit/php-code-coverage (5.3.2): Loading from cache
+  - Installing webmozart/assert (1.7.0): Loading from cache
+  - Installing phpdocumentor/reflection-common (2.0.0): Loading from cache
+  - Installing phpdocumentor/type-resolver (1.1.0): Loading from cache
+  - Installing phpdocumentor/reflection-docblock (5.1.0): Loading from cache
+  - Installing phpspec/prophecy (v1.10.3): Loading from cache
+  - Installing phar-io/version (1.0.1): Loading from cache
+  - Installing phar-io/manifest (1.0.1): Loading from cache
+  - Installing myclabs/deep-copy (1.9.5): Loading from cache
+  - Installing phpunit/phpunit (6.5.14): Loading from cache
+paragonie/random_compat suggests installing ext-libsodium (Provides a modern crypto API that can be used to generate random bytes.)
+paragonie/sodium_compat suggests installing ext-libsodium (PHP < 7.0: Better performance, password hashing (Argon2i), secure memory management (memzero), and better security.)
+symfony/var-dumper suggests installing ext-symfony_debug
+symfony/routing suggests installing symfony/config (For using the all-in-one router or any loader)
+symfony/routing suggests installing symfony/yaml (For using the YAML loader)
+symfony/routing suggests installing symfony/expression-language (For using expression matching)
+symfony/routing suggests installing doctrine/annotations (For using the annotation loader)
+symfony/event-dispatcher-contracts suggests installing psr/event-dispatcher
+symfony/event-dispatcher suggests installing symfony/dependency-injection
+symfony/http-kernel suggests installing symfony/browser-kit
+symfony/http-kernel suggests installing symfony/config
+symfony/http-kernel suggests installing symfony/dependency-injection
+symfony/console suggests installing symfony/lock
+swiftmailer/swiftmailer suggests installing true/punycode (Needed to support internationalized email addresses, if ext-intl is not installed)
+ramsey/uuid suggests installing ext-libsodium (Provides the PECL libsodium extension for use with the SodiumRandomGenerator)
+ramsey/uuid suggests installing ext-uuid (Provides the PECL UUID extension for use with the PeclUuidTimeGenerator and PeclUuidRandomGenerator)
+ramsey/uuid suggests installing moontoast/math (Provides support for converting UUID to 128-bit integer (in string form).)
+ramsey/uuid suggests installing ramsey/uuid-console (A console application for generating UUIDs with ramsey/uuid)
+ramsey/uuid suggests installing ramsey/uuid-doctrine (Allows the use of Ramsey\Uuid\Uuid as Doctrine field type.)
+ramsey/uuid suggests installing paragonie/random-lib (Provides RandomLib for use with the RandomLibAdapter)
+symfony/translation suggests installing symfony/config
+symfony/translation suggests installing symfony/yaml
+monolog/monolog suggests installing graylog2/gelf-php (Allow sending log messages to a GrayLog2 server)
+monolog/monolog suggests installing sentry/sentry (Allow sending log messages to a Sentry server)
+monolog/monolog suggests installing doctrine/couchdb (Allow sending log messages to a CouchDB server)
+monolog/monolog suggests installing ruflin/elastica (Allow sending log messages to an Elastic Search server)
+monolog/monolog suggests installing php-amqplib/php-amqplib (Allow sending log messages to an AMQP server using php-amqplib)
+monolog/monolog suggests installing ext-amqp (Allow sending log messages to an AMQP server (1.0+ required))
+monolog/monolog suggests installing ext-mongo (Allow sending log messages to a MongoDB server)
+monolog/monolog suggests installing mongodb/mongodb (Allow sending log messages to a MongoDB server via PHP Driver)
+monolog/monolog suggests installing aws/aws-sdk-php (Allow sending log messages to AWS services like DynamoDB)
+monolog/monolog suggests installing rollbar/rollbar (Allow sending log messages to Rollbar)
+monolog/monolog suggests installing php-console/php-console (Allow sending log messages to Google Chrome)
+league/flysystem suggests installing league/flysystem-eventable-filesystem (Allows you to use EventableFilesystem)
+league/flysystem suggests installing league/flysystem-rackspace (Allows you to use Rackspace Cloud Files)
+league/flysystem suggests installing league/flysystem-azure (Allows you to use Windows Azure Blob storage)
+league/flysystem suggests installing league/flysystem-webdav (Allows you to use WebDAV storage)
+league/flysystem suggests installing league/flysystem-aws-s3-v2 (Allows you to use S3 storage with AWS SDK v2)
+league/flysystem suggests installing league/flysystem-aws-s3-v3 (Allows you to use S3 storage with AWS SDK v3)
+league/flysystem suggests installing spatie/flysystem-dropbox (Allows you to use Dropbox storage)
+league/flysystem suggests installing srmklive/flysystem-dropbox-v2 (Allows you to use Dropbox storage for PHP 5 applications)
+league/flysystem suggests installing league/flysystem-cached-adapter (Flysystem adapter decorator for metadata caching)
+league/flysystem suggests installing league/flysystem-sftp (Allows you to use SFTP server storage via phpseclib)
+league/flysystem suggests installing league/flysystem-ziparchive (Allows you to use ZipArchive adapter)
+laravel/framework suggests installing aws/aws-sdk-php (Required to use the SQS queue driver and SES mail driver (~3.0).)
+laravel/framework suggests installing doctrine/dbal (Required to rename columns and drop SQLite columns (~2.5).)
+laravel/framework suggests installing league/flysystem-aws-s3-v3 (Required to use the Flysystem S3 driver (~1.0).)
+laravel/framework suggests installing league/flysystem-rackspace (Required to use the Flysystem Rackspace driver (~1.0).)
+laravel/framework suggests installing league/flysystem-cached-adapter (Required to use Flysystem caching (~1.0).)
+laravel/framework suggests installing nexmo/client (Required to use the Nexmo transport (~1.0).)
+laravel/framework suggests installing pda/pheanstalk (Required to use the beanstalk queue driver (~3.0).)
+laravel/framework suggests installing predis/predis (Required to use the redis cache and queue drivers (~1.0).)
+laravel/framework suggests installing symfony/dom-crawler (Required to use most of the crawler integration testing tools (~3.3).)
+symfony/psr-http-message-bridge suggests installing nyholm/psr7 (For a super lightweight PSR-7/17 implementation)
+phpseclib/phpseclib suggests installing ext-libsodium (SSH2/SFTP can make use of some algorithms provided by the libsodium-php extension.)
+phpseclib/phpseclib suggests installing ext-mcrypt (Install the Mcrypt extension in order to speed up a few other cryptographic operations.)
+phpseclib/phpseclib suggests installing ext-gmp (Install the GMP (GNU Multiple Precision) extension in order to speed up arbitrary precision integer arithmetic operations.)
+guzzlehttp/psr7 suggests installing zendframework/zend-httphandlerrunner (Emit PSR-7 responses)
+psy/psysh suggests installing ext-pdo-sqlite (The doc command requires SQLite to work.)
+psy/psysh suggests installing hoa/console (A pure PHP readline implementation. You'll want this if your PHP install doesn't already support readline or libedit.)
+filp/whoops suggests installing whoops/soap (Formats errors as SOAP responses)
+sebastian/global-state suggests installing ext-uopz (*)
+phpunit/phpunit-mock-objects suggests installing ext-soap (*)
+phpunit/php-code-coverage suggests installing ext-xdebug (^2.5.5)
+phpunit/phpunit suggests installing phpunit/php-invoker (^1.1)
+phpunit/phpunit suggests installing ext-xdebug (*)
+Package mtdowling/cron-expression is abandoned, you should avoid using it. Use dragonmantank/cron-expression instead.
+Package zendframework/zend-diactoros is abandoned, you should avoid using it. Use laminas/laminas-diactoros instead.
+Package phpunit/phpunit-mock-objects is abandoned, you should avoid using it. No replacement was suggested.
+Writing lock file
+Generating optimized autoload files
+Carbon 1 is deprecated, see how to migrate to Carbon 2.
+https://carbon.nesbot.com/docs/#api-carbon-2
+    You can run './vendor/bin/upgrade-carbon' to get help in updating carbon and other frameworks and libraries that depend on it.
+> Illuminate\Foundation\ComposerScripts::postAutoloadDump
+> @php artisan package:discover
+Discovered Package: fideloper/proxy
+Discovered Package: laravel/passport
+Discovered Package: laravel/tinker
+Discovered Package: nesbot/carbon
